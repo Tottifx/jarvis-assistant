@@ -16,3 +16,9 @@ A intelligent AI assistant with programming help, web surfing, and friendship ca
    ```bash
    ./setup.sh
    ```
+
+# Test the English voice
+python test_voice.py
+
+# If it works, run JARVIS
+python main.py
